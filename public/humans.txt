@@ -1,0 +1,13 @@
+/* TEAM */
+Clinic Director & Pediatric Lead: Dr. Ananya Sharma, MDS
+Orthodontist: Dr. Karthik Rao, MDS
+Prosthodontist & Senior Implantologist: Dr. Dr. Shalini Menon, MDS
+Location: Indiranagar, Bengaluru, Karnataka, India
+Contact: care@sproutsmile.com
+Phone: +91 (080) 4921-0088
+
+/* SITE */
+Last update: 2026-09-30
+Standards: HTML5, CSS3, ES2022, Schema.org, WCAG 2.1 AA
+Components: React 19, Tailwind CSS v4, Lucide Icons
+Clinic Governance: ISO 9001:2015 Medical Care, Class-B Autoclave Sterilization

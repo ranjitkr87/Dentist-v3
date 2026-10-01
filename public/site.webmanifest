@@ -1,0 +1,23 @@
+{
+  "name": "Sprout & Smile Family Dentistry",
+  "short_name": "Sprout & Smile",
+  "description": "Indiranagar's premier gentle pediatric and multi-generational dental sanctuary in Bangalore.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e4fffa",
+  "theme_color": "#00685f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "medical",
+    "health",
+    "family"
+  ]
+}

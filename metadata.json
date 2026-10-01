@@ -1,0 +1,6 @@
+{
+  "name": "Sprout & Smile Family Dentistry",
+  "description": "Indiranagar's premier gentle, caring pediatric and multi-generational dental clinic in Bangalore. Zero-anxiety, pain-free family dental treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

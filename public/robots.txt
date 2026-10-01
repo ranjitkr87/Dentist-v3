@@ -1,0 +1,20 @@
+# robots.txt for Sprout & Smile Family Dentistry
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Host & Sitemaps
+Sitemap: https://sproutsmile.com/sitemap.xml
+
+# LLM Crawlers Allowed
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /

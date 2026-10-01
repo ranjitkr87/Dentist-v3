@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://sproutsmile.com/</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://lh3.googleusercontent.com/aida-public/AB6AXuAnYe2QO5reP3J348sgNeTqFys9JiOl7uJ6b3mtn__m964THTOmkWub0nmgByezMFLYOGdnIXJ_b-FmU6j66NlFoRk4mtr_KVqLjwMBm5jkb6FqJ1sMzQBf--IzguL5wWA_D-YzPBRH1o2HGpgXmj6mAj8oqKxPkfgVy0-GwTqLl23rNrDDzT7Y0wsyvrCK7vxdGVwMI_er1DmEsIg7DFM8Jms1GXT5k_HzXTilIedUZ-Wm40VC83H2</image:loc>
+      <image:title>Sprout &amp; Smile Family Dental Clinic Indiranagar</image:title>
+      <image:caption>Warm multi-generational dental sanctuary in Indiranagar, Bangalore</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sproutsmile.com/#kids-dentistry</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sproutsmile.com/#family-care</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sproutsmile.com/#our-doctors</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sproutsmile.com/#clinic-comforts</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sproutsmile.com/#booking-card</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://sproutsmile.com/#contact-location</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+</urlset>
